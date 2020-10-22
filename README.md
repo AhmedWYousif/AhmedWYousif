@@ -1,4 +1,8 @@
 ### Hi there 👋
+A results-driven, customer-focused, articulate, and analytical Software Engineer who can think “out of the box” with 9+ years of experience in building large-scale enterprise apps using web technologies, distributed computation, storage frameworks, and sophisticated, cutting-edge domain analytics, with systems hosted on virtualized and cloud-computing platforms. Having the ability to work both independently with little supervision as well as engage with a team to achieve overall project objectives.
+
+## Specialties:
+Python, C#, ASP.NET, JavaScript, VB, Node.js, Typescript, .NET Framework, .NET Core, Express.js, SharePoint, Angular, ReactJs, NextJs, ES6, HTML, XML, jQuery, CSS3, Bootstrap, SOA, SEO, Microservices, OOD, MVC, Rest API, WCF, JSON, Web Services, T-SQL, Microsoft SQL Server, MySQL, Oracle, PostgreSQL, MongoDB, DB2, Redis, Redux, Git, VSS, TFS, Jenkins, Jira, GitHub, Unit Testing, Agile, Scrum, Continuous Delivery, UML, OOP, TDD, Design Patterns, dependency injection.
 
 <!--
 **AhmedWYousif/AhmedWYousif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
